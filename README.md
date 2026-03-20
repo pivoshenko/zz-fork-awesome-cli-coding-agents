@@ -143,6 +143,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[Binharic](https://github.com/CogitatorTech/binharic-cli)** `⭐ 15` — A multi-provider "tech-priest persona" coding agent CLI (stylized, tool-using).
 
+- **[Kasetto](https://github.com/pivoshenko/kasetto)** — Rust-native CLI for AI skills/workflow syncing with local + remote configs, startup hooks (Claude/Cursor), dry-run/stale cleanup, and animated/plain/json output modes.
+
 - **[CLAII](https://github.com/agencyswarm/CLAII)** — CLI-first AI coding agent with multi-agent orchestration, MCP toolchains, and memory-persistent refactors.
 
 ### OpenClaw ecosystem
